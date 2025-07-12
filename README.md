@@ -7,6 +7,7 @@ Detect fraudulent credit card transactions using machine learning on a highly im
 - **Source:** Kaggle – Credit Card Fraud Detection by ULB ML Group  
 - **Size:** 284,807 transactions (492 fraud)
 - **Features:** V1–V28 (PCA), Time, Amount, Class (0 = No fraud, 1 = Fraud)
+- Link to dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
 
 ## Workflow
 
